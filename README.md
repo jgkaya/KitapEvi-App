@@ -26,7 +26,6 @@ Aşağıda uygulamaya ait bazı ekran görüntülerini görebilirsiniz:
 
 # Ana Sayfa / Satış Ekranı
 <img width="662" height="351" alt="image" src="https://github.com/user-attachments/assets/a1b87854-cb47-4488-97a7-8688372b40f0" />
-<img width="657" height="337" alt="image" src="https://github.com/user-attachments/assets/87f48461-1e33-4271-a646-e6226d582269" />
 
 # Müşteri Yönetimi
 <img width="662" height="347" alt="image" src="https://github.com/user-attachments/assets/ee693e72-5aa8-4a21-afd4-986b0f0c3b97" />
@@ -38,6 +37,9 @@ Aşağıda uygulamaya ait bazı ekran görüntülerini görebilirsiniz:
 <img width="667" height="361" alt="image" src="https://github.com/user-attachments/assets/45f5ed40-8730-4cb4-9bf4-2b1ddc181902" />
 <img width="666" height="345" alt="image" src="https://github.com/user-attachments/assets/38e86857-d252-4295-a62d-fc72e430e796" />
 <img width="661" height="347" alt="image" src="https://github.com/user-attachments/assets/8ea1571e-e2d9-4c57-9598-6eda354bfc5c" />
+
+# Ürün Listeleme ve Güncelleme
+<img width="712" height="341" alt="image" src="https://github.com/user-attachments/assets/0c175d09-15e8-4a83-8558-c40a014a9a3f" />
 
 # Satış Listesi ve XML Dönüşümü
 <img width="707" height="512" alt="image" src="https://github.com/user-attachments/assets/a3931abd-3c2d-4abc-b8c9-7fab1dbfefc9" />
