@@ -30,12 +30,11 @@ Aşağıda uygulamaya ait bazı ekran görüntülerini görebilirsiniz:
 # Müşteri Yönetimi
 <img width="662" height="347" alt="image" src="https://github.com/user-attachments/assets/ee693e72-5aa8-4a21-afd4-986b0f0c3b97" />
 <img width="661" height="338" alt="image" src="https://github.com/user-attachments/assets/8b247dce-9cad-4bc8-ac29-c0162168fdd9" />
+<img width="667" height="285" alt="image" src="https://github.com/user-attachments/assets/74b37099-903b-4b37-9471-946cd35560c6" />
 
 # Ürün Yönetimi
 <img width="658" height="341" alt="image" src="https://github.com/user-attachments/assets/6e76f794-e1f2-4277-aa6b-994b6c7b795d" />
 <img width="660" height="352" alt="image" src="https://github.com/user-attachments/assets/6d27d99f-0c80-402f-ac5a-c5247c6fe334" />
-<img width="667" height="361" alt="image" src="https://github.com/user-attachments/assets/45f5ed40-8730-4cb4-9bf4-2b1ddc181902" />
-<img width="666" height="345" alt="image" src="https://github.com/user-attachments/assets/38e86857-d252-4295-a62d-fc72e430e796" />
 <img width="661" height="347" alt="image" src="https://github.com/user-attachments/assets/8ea1571e-e2d9-4c57-9598-6eda354bfc5c" />
 
 # Ürün Listeleme ve Güncelleme
