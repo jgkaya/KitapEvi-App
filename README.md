@@ -6,17 +6,17 @@ Proje, Microsoft Visual Studio 2017 kullanılarak C# programlama diliyle gelişt
 # Temel Özellikler
 * Ürün ekleme, güncelleme ve silme (kategori, marka, yazar bilgileri ile birlikte)
 * Müşteri kaydı oluşturma, listeleme, güncelleme ve silme
-*Satış işlemleri, sepet yönetimi ve anlık toplam tutar hesaplama
-*Satış listesinin XML dosyasına aktarımı
-*Raporlama: kayıtlı toplam ürün ve müşteri sayısı
-*Giriş ekranı ile kullanıcı doğrulama
-*Ayrıca kullanıcı rolleri göz önünde bulundurularak (yönetici, satış elemanı, muhasebeci) ileride yetki bazlı erişim kısıtlamaları eklenmesi planlanmaktadır.
+* Satış işlemleri, sepet yönetimi ve anlık toplam tutar hesaplama
+* Satış listesinin XML dosyasına aktarımı
+* Raporlama: kayıtlı toplam ürün ve müşteri sayısı
+* Giriş ekranı ile kullanıcı doğrulama
+* Ayrıca kullanıcı rolleri göz önünde bulundurularak (yönetici, satış elemanı, muhasebeci) ileride yetki bazlı erişim kısıtlamaları eklenmesi planlanmaktadır.
 
 # Kullanılan Teknolojiler
-C# (.NET Framework)
-Windows Forms
-Microsoft SQL Server
-XML
+* C# (.NET Framework)
+* Windows Forms
+* Microsoft SQL Server
+* XML
 
 # Ekran Görüntüleri
 Aşağıda uygulamaya ait bazı ekran görüntülerini görebilirsiniz:
@@ -49,11 +49,11 @@ Aşağıda uygulamaya ait bazı ekran görüntülerini görebilirsiniz:
 
 # Kurulum
 Projeyi GitHub’dan klonlayın:
-git clone https://github.com/kullaniciadi/projeadi.git
-Visual Studio 2017 ile projeyi açın.
-SQL Server'da veritabanını oluşturun
-App.config veya ilgili bağlantı ayarlarını düzenleyin.
-Uygulamayı çalıştırarak test edin.
+- git clone https://github.com/kullaniciadi/projeadi.git
+- Visual Studio 2017 ile projeyi açın.
+- SQL Server'da veritabanını oluşturun
+- App.config veya ilgili bağlantı ayarlarını düzenleyin.
+- Uygulamayı çalıştırarak test edin.
 
 
 
